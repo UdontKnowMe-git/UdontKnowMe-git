@@ -14,7 +14,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udontknowme-git&" alt="udontknowme-git" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other profiles:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@hariram_s2399" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hariram_s2399" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/udontknowme_git" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udontknowme_git" height="30" width="40" /></a>
