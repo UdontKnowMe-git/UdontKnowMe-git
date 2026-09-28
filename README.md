@@ -69,7 +69,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdontKnowMe-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hariram's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UdontKnowMe-git&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
