@@ -68,12 +68,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UdontKnowMe-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hariram's GitHub Stats" />
 </p>
-[![UdontKnowMe-git's GitHub stats](https://github-stats-extended.vercel.app/api?username=udontknowme-git)](https://github.com/stats-organization/github-stats-extended)
----
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=UdontKnowMe-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hariram's Extended GitHub Stats" />
+</p>
 
 ### 🌍 Let's Connect
 
