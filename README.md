@@ -71,9 +71,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UdontKnowMe-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hariram's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udontknowme-git&theme=tokyonight&hide_border=true&background=0D1117" alt="Hariram's Streak Stats" />
 </p>
-
+[![UdontKnowMe-git's GitHub stats](https://github-stats-extended.vercel.app/api?username=udontknowme-git)](https://github.com/stats-organization/github-stats-extended)
 ---
 
 ### 🌍 Let's Connect
